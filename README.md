@@ -1,1 +1,1 @@
-# react-start-kit
+# react-starter-kit
